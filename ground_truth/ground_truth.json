@@ -1,0 +1,196 @@
+{
+  "images/image1.jpg": [
+    { "name": "grilled sandwich", "quantity": "1 sandwich" },
+    { "name": "potato fries wedges", "quantity": "10 pieces" },
+    { "name": "pickled cucumbers", "quantity": "5 small spears" },
+    { "name": "ketchup sauce", "quantity": "2 tablespoons" }
+  ],
+  "images/image2.jpg": [
+    { "name": "everything bagel", "quantity": "1 bagel (110g)" },
+    { "name": "cream cheese", "quantity": "2 tablespoons" },
+    { "name": "tomatoes", "quantity": "2 slices" },
+    { "name": "mixed lettuce leaves", "quantity": "30g" },
+    { "name": "red onion slices", "quantity": "2 slices" }
+  ],
+  "images/image3.jpg": [
+    { "name": "corn tortillas", "quantity": "2 pieces (6-inch)" },
+    { "name": "fried eggs", "quantity": "2 eggs" },
+    { "name": "avocado", "quantity": "1/4 avocado, sliced" },
+    { "name": "red onion", "quantity": "2 tablespoons, diced" },
+    { "name": "Mexican crema", "quantity": "2 tablespoons" },
+    { "name": "queso fresco", "quantity": "2 tablespoons, crumbled" },
+    { "name": "fresh cilantro", "quantity": "2 tablespoons, chopped" },
+    { "name": "salsa verde", "quantity": "2-3 tablespoons" }
+  ],
+  "images/image4.jpg": [
+    { "name": "blueberry waffles", "quantity": "2 pieces (4-inch each)" },
+    { "name": "whipped cream", "quantity": "2 tablespoons" },
+    { "name": "blueberries", "quantity": "12 fresh berries" }
+  ],
+  "images/image5.jpg": [
+    { "name": "ciabatta roll", "quantity": "1 roll (6-inch)" },
+    { "name": "fresh mozzarella", "quantity": "2 oz" },
+    { "name": "tomato slices", "quantity": "2 slices" },
+    { "name": "arugula", "quantity": "1 cup" },
+    { "name": "pesto", "quantity": "1 tablespoon" },
+    { "name": "balsamic glaze", "quantity": "1 teaspoon" }
+  ],
+  "images/image6.jpg": [
+    { "name": "grilled flank steak", "quantity": "4 oz" },
+    { "name": "roasted asparagus", "quantity": "6-8 spears" },
+    { "name": "sliced tomatoes", "quantity": "1 medium tomato" },
+    { "name": "sliced beets", "quantity": "1/2 cup" },
+    { "name": "sliced jalapeño", "quantity": "1 small pepper" },
+    { "name": "sliced cucumber", "quantity": "1/4 cup" }
+  ],
+  "images/image7.jpg": [
+    { "name": "scrambled eggs", "quantity": "2 eggs" },
+    { "name": "avocado", "quantity": "1/2 avocado, sliced" },
+    { "name": "sriracha sauce", "quantity": "2 tablespoons" },
+    { "name": "mozzarella cheese", "quantity": "1/4 cup" }
+  ],
+  "images/image8.jpg": [
+    { "name": "toast with mashed avocado", "quantity": "1 slice" },
+    { "name": "fried egg", "quantity": "1 egg" },
+    { "name": "cherry tomatoes", "quantity": "4-5" },
+    { "name": "kiwi slices", "quantity": "1 kiwi" },
+    { "name": "blueberries", "quantity": "10 berries" },
+    { "name": "granola", "quantity": "2 tablespoons" },
+    { "name": "coffee with milk", "quantity": "12 oz cup" }
+  ],
+  "images/image9.jpg": [
+    { "name": "rice noodles", "quantity": "2 cups cooked" },
+    { "name": "chicken breast", "quantity": "4 oz sliced" },
+    { "name": "chicken broth", "quantity": "2 cups" },
+    { "name": "green onions", "quantity": "1 tablespoon" },
+    { "name": "bean sprouts", "quantity": "1/4 cup" }
+  ],
+  "images/image10.jpg": [
+    { "name": "eggs (sunny side up)", "quantity": "2 large" },
+    { "name": "sautéed mixed greens", "quantity": "1 cup" }
+  ],
+  "images/image11.jpg": [
+    { "name": "grilled ribeye steak", "quantity": "8 oz" },
+    { "name": "french fries", "quantity": "2 cups" },
+    { "name": "mixed green lettuce", "quantity": "1 cup" },
+    { "name": "ketchup", "quantity": "2 oz" },
+    { "name": "mayonnaise", "quantity": "2 oz" }
+  ],
+  "images/image12.jpg": [
+    { "name": "spaghetti pasta", "quantity": "1.5 cups" },
+    { "name": "cherry tomatoes", "quantity": "8-10, halved" },
+    { "name": "pesto sauce", "quantity": "2-3 tablespoons" }
+  ],
+  "images/image13.jpg": [
+    { "name": "white rice", "quantity": "1 cup cooked" },
+    { "name": "grilled tofu cubes", "quantity": "6 oz" },
+    { "name": "mixed vegetables", "quantity": "1 cup" },
+    { "name": "ground pork", "quantity": "2 oz" }
+  ],
+  "images/image14.jpg": [
+    { "name": "plain toasted bagel", "quantity": "1 half" },
+    { "name": "butter", "quantity": "1 tablespoon" }
+  ],
+  "images/image15.jpg": [
+    { "name": "poached eggs", "quantity": "2 eggs" },
+    { "name": "English muffin halves", "quantity": "2 pieces" },
+    { "name": "hollandaise sauce", "quantity": "2 oz" },
+    { "name": "breaded shrimp", "quantity": "6-8 medium" },
+    { "name": "chopped chives", "quantity": "1 tablespoon" }
+  ],
+  "images/image16.jpg": [
+    { "name": "strawberries", "quantity": "4-5 medium" },
+    { "name": "pineapple chunks", "quantity": "1/4 cup" },
+    { "name": "blackberries", "quantity": "2-3 whole" },
+    { "name": "blueberries", "quantity": "4-5 whole" }
+  ],
+  "images/image17.jpg": [
+    { "name": "red apple", "quantity": "1 medium" },
+    { "name": "hard-boiled egg", "quantity": "1 large" },
+    { "name": "feta cheese", "quantity": "1 oz" },
+    { "name": "fresh basil leaves", "quantity": "2-3 leaves" }
+  ],
+  "images/image18.jpg": [
+    { "name": "chicken breast", "quantity": "4 oz, diced" },
+    { "name": "zucchini slices", "quantity": "1/2 cup" },
+    { "name": "spinach", "quantity": "1 cup fresh" },
+    { "name": "clear broth", "quantity": "2 cups" }
+  ],
+  "images/image19.jpg": [
+    { "name": "whole wheat bread", "quantity": "1 slice" },
+    { "name": "fried egg", "quantity": "1 large" },
+    { "name": "hot sauce", "quantity": "1 tablespoon" },
+    { "name": "breakfast sausage link", "quantity": "2 oz" }
+  ],
+  "images/image20.jpg": [
+    { "name": "plain bagel", "quantity": "1 whole, sliced in half" }
+  ],
+  "images/image21.jpg": [
+    { "name": "white rice", "quantity": "1 cup cooked" },
+    { "name": "miso soup", "quantity": "1 cup" },
+    { "name": "breaded pork cutlet", "quantity": "4-5 oz" },
+    { "name": "steamed broccoli", "quantity": "1 cup" }
+  ],
+  "images/image22.jpeg": [
+    {
+      "name": "veggie burger",
+      "quantity": "1 burger with lettuce, cheese, and ketchup on a bun"
+    },
+    { "name": "white bread with ketchup", "quantity": "1 slice" },
+    { "name": "Doritos chips", "quantity": "1 cup (approximately 28g)" },
+    {
+      "name": "mixed steamed vegetables",
+      "quantity": "1 cup broccoli and cauliflower"
+    }
+  ],
+  "images/image23.jpg": [
+    { "name": "penne pasta", "quantity": "2 cups with marinara sauce" },
+    { "name": "Parmesan cheese", "quantity": "1/4 cup, shredded" },
+    {
+      "name": "chopped iceberg lettuce",
+      "quantity": "2 cups with shredded carrots"
+    },
+    { "name": "whole wheat bread", "quantity": "1 slice" }
+  ],
+  "images/image24.jpg": [
+    { "name": "grilled flank steak", "quantity": "4 oz" },
+    { "name": "roasted beets", "quantity": "4 oz" },
+    { "name": "sliced cucumber", "quantity": "1/2 cup (50g)" }
+  ],
+  "images/image25.jpg": [
+    { "name": "grilled flank steak", "quantity": "6-7 oz" },
+    { "name": "grilled asparagus", "quantity": "6-7 spears" }
+  ],
+  "images/image26.jpg": [
+    { "name": "beef chunks", "quantity": "4-5 oz" },
+    { "name": "sliced cucumber", "quantity": "1/2 medium cucumber (1 cup)" },
+    { "name": "sliced avocado", "quantity": "1/2 medium avocado" },
+    { "name": "ketchup or tomato sauce", "quantity": "1/4 cup" }
+  ],
+  "images/image27.jpg": [
+    {
+      "name": "scrambled eggs",
+      "quantity": "2 large eggs with herbs/seasonings"
+    },
+    { "name": "red apple", "quantity": "1 medium (approximately 182g)" }
+  ],
+  "images/image28.jpg": [
+    { "name": "grilled salmon fillet", "quantity": "6 oz" },
+    { "name": "grilled asparagus", "quantity": "8 spears" },
+    { "name": "lemon", "quantity": "1 half" }
+  ],
+  "images/image29.jpg": [
+    { "name": "mixed greens salad", "quantity": "1 cup" },
+    { "name": "battered/fried fish fillet", "quantity": "6-7 oz" },
+    { "name": "creamy sauce drizzle", "quantity": "2-3 tablespoons" },
+    { "name": "diced tomatoes", "quantity": "2 tablespoons" },
+    { "name": "shredded carrots", "quantity": "1 tablespoon" },
+    { "name": "yellow sauce garnish", "quantity": "1 tablespoon" }
+  ],
+  "images/image30.jpg": [
+    {
+      "name": "meatloaf",
+      "quantity": "7 slices (approximately 2 oz each)"
+    }
+  ]
+}

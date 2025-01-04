@@ -1,0 +1,39 @@
+{
+  "name": "food-model-evaluation",
+  "version": "1.0.0",
+  "description": "A backend project to evaluate generative AI models (AWS Bedrock, Claude, OpenAI GPT Vision) for food detection and analysis from images.",
+  "main": "scripts/food_model_evaluation.mjs",
+  "scripts": {
+    "start": "node scripts/food_model_evaluation.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.33.1",
+    "axios": "^1.4.0",
+    "csv-writer": "^1.6.0",
+    "dayjs": "^1.11.9",
+    "delay": "^6.0.0",
+    "dotenv": "^16.4.7",
+    "fs-extra": "^11.1.1",
+    "p-limit": "^6.2.0",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/food-recognition/food-model-evaluation.git"
+  },
+  "keywords": [
+    "food",
+    "model",
+    "evaluation",
+    "generative-ai",
+    "AWS Bedrock",
+    "Claude",
+    "OpenAI GPT Vision"
+  ],
+  "author": "Hany Rostom",
+  "license": "MIT"
+}
