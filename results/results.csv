@@ -8,12 +8,12 @@ image1.jpg,75%,"The actual foods and quantities mostly match the expected ones, 
 - 2 oz side of dipping sauce (appears to be ketchup)",547,79,3602,3608,0.002826
 image10.jpg,100%,"The actual food items perfectly matched the expected food items. Both the ""eggs (sunny side up)"" and the ""sautéed mixed greens"" were present and in the correct quantities of ""2 large"" and ""1 cup"" respectively. The specification of the type of greens (kale or chard) in the actual does not detract from the match as this falls under the expected ""mixed greens"".",claude-3-5-sonnet-20241022,"[{""name"":""eggs (sunny side up)"",""quantity"":""2 large""},{""name"":""sautéed mixed greens"",""quantity"":""1 cup""}]","- 2 large eggs (sunny side up)
 - 1 cup sautéed mixed greens (appears to be kale or chard)",692,37,4258,4262,0.002631
-image11.jpg,9500%,"The actual food items and their quantities almost perfectly match with the expected food items and quantities. The name and quantity of the grilled ribeye steak, French fries, ketchup, and mayonnaise all perfectly matched. The only discrepancy is with the 'mixed green lettuce' which appears as 'shredded lettuce' in the actual list. The type of lettuce is slightly different, but since it may be varieties of the same product, it pretty much falls within expectation. Hence, I am giving a score of 95 out of 100.",claude-3-5-sonnet-20241022,"[{""name"":""grilled ribeye steak"",""quantity"":""8 oz""},{""name"":""french fries"",""quantity"":""2 cups""},{""name"":""mixed green lettuce"",""quantity"":""1 cup""},{""name"":""ketchup"",""quantity"":""2 oz""},{""name"":""mayonnaise"",""quantity"":""2 oz""}]","- 8 oz grilled ribeye steak, medium-rare
+image11.jpg,95%,"The actual food items and their quantities almost perfectly match with the expected food items and quantities. The name and quantity of the grilled ribeye steak, French fries, ketchup, and mayonnaise all perfectly matched. The only discrepancy is with the 'mixed green lettuce' which appears as 'shredded lettuce' in the actual list. The type of lettuce is slightly different, but since it may be varieties of the same product, it pretty much falls within expectation. Hence, I am giving a score of 95 out of 100.",claude-3-5-sonnet-20241022,"[{""name"":""grilled ribeye steak"",""quantity"":""8 oz""},{""name"":""french fries"",""quantity"":""2 cups""},{""name"":""mixed green lettuce"",""quantity"":""1 cup""},{""name"":""ketchup"",""quantity"":""2 oz""},{""name"":""mayonnaise"",""quantity"":""2 oz""}]","- 8 oz grilled ribeye steak, medium-rare
 - 2 cups french fries
 - 1 cup shredded lettuce
 - 2 oz ketchup
 - 2 oz mayonnaise/aioli",837,59,2748,2750,0.003396
-image12.jpg,9000%,"The food items presented in the actual list corresponded accurately with the expected list in terms of names. There is an excellent match with 'spaghetti pasta', 'cherry tomatoes', and 'pesto sauce'. Making the match for the food a success.
+image12.jpg,90%,"The food items presented in the actual list corresponded accurately with the expected list in terms of names. There is an excellent match with 'spaghetti pasta', 'cherry tomatoes', and 'pesto sauce'. Making the match for the food a success.
 
 Regarding the quantities, the actual quantity for 'spaghetti pasta' was slightly more than expected. The expected measuring for spaghetti pasta was 1.5 cups, however, the actual quantity came to be approximately 2 cups. 
 
@@ -101,7 +101,7 @@ image21.jpg,56.99999999999999%,"The actual food list partially matched the expec
 - Grilled shiitake mushroom (1-2 pieces)
 - Shredded lettuce (1 cup)
 - Cherry tomato slices (2-3 pieces)",692,116,3618,3621,0.003816
-image22.jpeg,6250%,"1. Veggie Burger - There was a mismatch in this category. The expected food was a 'veggie burger', however, the actual food was a 'breaded chicken patty sandwich'. Although both were served with lettuce, cheese, and ketchup on a bun, the main component (burger patty) differed. 
+image22.jpeg,62.50%,"1. Veggie Burger - There was a mismatch in this category. The expected food was a 'veggie burger', however, the actual food was a 'breaded chicken patty sandwich'. Although both were served with lettuce, cheese, and ketchup on a bun, the main component (burger patty) differed. 
 
 2. White bread with Ketchup - Here, both expected and actual food matches perfectly. It was expected to have '1 slice of white bread with ketchup' and that's exactly what was provided.
 
@@ -1158,7 +1158,7 @@ Overall, the actual food items are largely in line with the expected food items 
 1. Grilled steak - approximately 85 grams
 2. Cooked beets - approximately 150 grams
 3. Sliced cucumber - approximately 50 grams",842,50,3288,3290,0.009920
-image25.jpg,7500%,"The food names matched partially. The 'grilled flank steak' was expected and the actual food was 'grilled steak strips'. Although they both refer to steak, the specific type of steak mentioned (flank steak) was different than the actual steak strips. 
+image25.jpg,75%,"The food names matched partially. The 'grilled flank steak' was expected and the actual food was 'grilled steak strips'. Although they both refer to steak, the specific type of steak mentioned (flank steak) was different than the actual steak strips. 
 
 As for the 'grilled asparagus', it matched perfectly with the expectation. 
 
